@@ -1,0 +1,2 @@
+C:\Users\Djordje Janjic\source\repos\Tic tac toe\Debug\Tic tac toe.exe
+C:\Users\Djordje Janjic\source\repos\Tic tac toe\Debug\Tic tac toe.pdb
